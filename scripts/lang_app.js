@@ -1,7 +1,7 @@
 // scripts/lang_app.js
 
 function loadTranslations(lang) {
-    if (lang != 'fr'){
+    if (lang != 'es'){
         document.getElementById('iconsWpp').remove();
         document.getElementById('iconsBumBum').remove();
     }
